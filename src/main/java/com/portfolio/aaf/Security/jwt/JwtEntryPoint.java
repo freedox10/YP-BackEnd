@@ -1,6 +1,7 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
  */
 package com.portfolio.aaf.Security.jwt;
 
@@ -21,7 +22,7 @@ public class JwtEntryPoint implements AuthenticationEntryPoint{
 
     @Override
     public void commence(HttpServletRequest request, HttpServletResponse response, AuthenticationException authException) throws IOException, ServletException {
-        logger.error("Falló el metodo commence");
+        logger.error("Falló el metodo commence ");
         response.sendError(HttpServletResponse.SC_UNAUTHORIZED);
     }
     
