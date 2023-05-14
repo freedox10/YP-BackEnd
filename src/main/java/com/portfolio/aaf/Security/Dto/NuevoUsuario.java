@@ -1,17 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.portfolio.aaf.Security.Dto;
 
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- *
- * @author Usuario
- */
 public class NuevoUsuario {
     private String nombre;
     private String nombreUsuario;
