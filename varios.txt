@@ -1,0 +1,17 @@
+
+https://www.youtube.com/watch?v=ExtjIZIq1C0&t=16s
+Failed en Deploy Render BackEnd
+
+Intente hacer 5 veces el deploy en render y me sigue saliendo "failed" pero no me indica en que fallo
+
+Tenía el mismo problema y lo solucioné agregando EXPOSE 8080 en el Dockerfile y la linea server.port = 10000 en el aplication.properties. Espero les sirva!
+
+Solución a Failed pero sin error en el log:
+Lo que me funcionó que vengo hace 1 semana probando cosas y solo esto hizo que aparezca el Live fue poner en el archivo dockerfile EXPOSE 8080 y en el application properties server.port=10000.
+Clean build
+Git add . 
+Git commit -am "Su oración para que se suba"
+Git push origin main
+
+Luego resetean la base de datos desde Clever Cloud, también matan las conexiones y luego hacen Clear build cache y deploy en Render. 
+Les deseo la mejor de las suertes. Abrazo.

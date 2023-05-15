@@ -1,3 +1,4 @@
+
 package com.portfolio.aaf.Security.Controller;
 
 import com.portfolio.aaf.Security.Dto.JwtDto;
@@ -30,8 +31,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/auth")
-//@CrossOrigin(origins = {"https://aaffrontend.web.app","http://localhost:4200"})
-@CrossOrigin(origins = {"http://localhost:4200/login"})
+@CrossOrigin(origins = {"https://yp-fe-porfolio.web.app","http://localhost:4200"})
+//@CrossOrigin(origins = {"http://localhost:4200"})
 public class AuthController {
     @Autowired
     PasswordEncoder passwordEncoder;
