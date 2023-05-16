@@ -11,7 +11,7 @@ public class Mensaje {
     public Mensaje(String mensaje) {
         this.mensaje = mensaje;
     }
-    //Getter y Setter
+    //Getters y Setters
 
     public String getMensaje() {
         return mensaje;

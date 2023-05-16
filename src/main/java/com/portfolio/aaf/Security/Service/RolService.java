@@ -10,6 +10,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 @Service
+//transactional para persistencia de datos por cuakquier problema de conexion
 @Transactional
 public class RolService {
     @Autowired

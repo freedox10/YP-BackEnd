@@ -27,7 +27,9 @@ public class Usuario {
     private String email;
     @NotNull
     private String password;
+    //Relacion muchos a muchos
     @ManyToMany(fetch = FetchType.EAGER)
+    // Tabla de unión usuario_rol a travez de columna usuario:id y columna rol_id
     @JoinTable(name = "usuario_rol", joinColumns = @JoinColumn(name ="usuario_id"), inverseJoinColumns = @JoinColumn(name = "rol_id"))
     private Set<Rol> roles = new HashSet<>();
     

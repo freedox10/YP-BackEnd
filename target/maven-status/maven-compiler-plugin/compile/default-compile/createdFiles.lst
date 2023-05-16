@@ -13,7 +13,6 @@ com\portfolio\aaf\Repository\IPersonaRepository.class
 com\portfolio\aaf\Security\Repository\iRolRepository.class
 com\portfolio\aaf\Security\Controller\Mensaje.class
 com\portfolio\aaf\Security\Service\UserDetailsImpl.class
-com\portfolio\mgb\Dto\dtoPersona.class
 com\portfolio\aaf\Security\jwt\JwtEntryPoint.class
 com\portfolio\aaf\Dto\dtoEducacion.class
 com\portfolio\aaf\Security\Controller\AuthController.class
@@ -33,4 +32,5 @@ com\portfolio\aaf\Entity\Persona.class
 com\portfolio\aaf\Controller\PersonaController.class
 com\portfolio\aaf\Security\Enums\RolNombre.class
 com\portfolio\aaf\Security\Service\RolService.class
+com\portfolio\aaf\Dto\dtoPersona.class
 com\portfolio\aaf\Repository\RExperiencia.class
