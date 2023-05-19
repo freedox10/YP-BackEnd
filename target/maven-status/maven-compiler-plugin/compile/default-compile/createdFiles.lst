@@ -5,10 +5,13 @@ com\portfolio\aaf\AafApplication.class
 com\portfolio\aaf\Entity\Experiencia.class
 com\portfolio\aaf\Dto\dtoExperiencia.class
 com\portfolio\aaf\Controller\CExperiencia.class
+com\portfolio\aaf\Controller\CHys.class
 com\portfolio\aaf\Interface\IPersonaService.class
 com\portfolio\aaf\Controller\CEducacion.class
 com\portfolio\aaf\Security\Dto\NuevoUsuario.class
 com\portfolio\aaf\Security\Dto\JwtDto.class
+com\portfolio\aaf\Dto\dtoHys.class
+com\portfolio\aaf\Entity\Hys.class
 com\portfolio\aaf\Repository\IPersonaRepository.class
 com\portfolio\aaf\Security\Repository\iRolRepository.class
 com\portfolio\aaf\Security\Controller\Mensaje.class
@@ -32,5 +35,7 @@ com\portfolio\aaf\Entity\Persona.class
 com\portfolio\aaf\Controller\PersonaController.class
 com\portfolio\aaf\Security\Enums\RolNombre.class
 com\portfolio\aaf\Security\Service\RolService.class
+com\portfolio\aaf\Service\Shys.class
 com\portfolio\aaf\Dto\dtoPersona.class
+com\portfolio\aaf\Repository\Rhys.class
 com\portfolio\aaf\Repository\RExperiencia.class

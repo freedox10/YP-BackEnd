@@ -1,19 +1,16 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package com.portfolio.mgb.Dto;
+
+package com.portfolio.aaf.Dto;
 
 import javax.validation.constraints.NotBlank;
 
 
-public class dtoHys {
+ public class dtoHys {
     @NotBlank
     private String nombre;
     @NotBlank
     private int porcentaje;
 
+    //Constructor
     public dtoHys() {
     }
 
@@ -22,6 +19,7 @@ public class dtoHys {
         this.porcentaje = porcentaje;
     }
 
+    //Getters y Setters
     public String getNombre() {
         return nombre;
     }

@@ -1,3 +1,4 @@
+C:\Users\Alfre Do\Desktop\Cursos\ARG Programa - Yo Programo\Mod 4\BackEnd Entrega\YP-portfolio_BackEnd\src\main\java\com\portfolio\aaf\Repository\Rhys.java
 C:\Users\Alfre Do\Desktop\Cursos\ARG Programa - Yo Programo\Mod 4\BackEnd Entrega\YP-portfolio_BackEnd\src\main\java\com\portfolio\aaf\Dto\dtoHys.java
 C:\Users\Alfre Do\Desktop\Cursos\ARG Programa - Yo Programo\Mod 4\BackEnd Entrega\YP-portfolio_BackEnd\src\main\java\com\portfolio\aaf\Entity\Experiencia.java
 C:\Users\Alfre Do\Desktop\Cursos\ARG Programa - Yo Programo\Mod 4\BackEnd Entrega\YP-portfolio_BackEnd\src\main\java\com\portfolio\aaf\Security\Entity\UsuarioPrincipal.java
@@ -19,12 +20,15 @@ C:\Users\Alfre Do\Desktop\Cursos\ARG Programa - Yo Programo\Mod 4\BackEnd Entreg
 C:\Users\Alfre Do\Desktop\Cursos\ARG Programa - Yo Programo\Mod 4\BackEnd Entrega\YP-portfolio_BackEnd\src\main\java\com\portfolio\aaf\Security\Entity\Rol.java
 C:\Users\Alfre Do\Desktop\Cursos\ARG Programa - Yo Programo\Mod 4\BackEnd Entrega\YP-portfolio_BackEnd\src\main\java\com\portfolio\aaf\Repository\IPersonaRepository.java
 C:\Users\Alfre Do\Desktop\Cursos\ARG Programa - Yo Programo\Mod 4\BackEnd Entrega\YP-portfolio_BackEnd\src\main\java\com\portfolio\aaf\Service\SExperiencia.java
+C:\Users\Alfre Do\Desktop\Cursos\ARG Programa - Yo Programo\Mod 4\BackEnd Entrega\YP-portfolio_BackEnd\src\main\java\com\portfolio\aaf\Service\dtoHys.java
 C:\Users\Alfre Do\Desktop\Cursos\ARG Programa - Yo Programo\Mod 4\BackEnd Entrega\YP-portfolio_BackEnd\src\main\java\com\portfolio\aaf\Security\Enums\RolNombre.java
 C:\Users\Alfre Do\Desktop\Cursos\ARG Programa - Yo Programo\Mod 4\BackEnd Entrega\YP-portfolio_BackEnd\src\main\java\com\portfolio\aaf\Security\Repository\iUsuarioRepository.java
 C:\Users\Alfre Do\Desktop\Cursos\ARG Programa - Yo Programo\Mod 4\BackEnd Entrega\YP-portfolio_BackEnd\src\main\java\com\portfolio\aaf\Service\Seducacion.java
+C:\Users\Alfre Do\Desktop\Cursos\ARG Programa - Yo Programo\Mod 4\BackEnd Entrega\YP-portfolio_BackEnd\src\main\java\com\portfolio\aaf\Service\Shys.java
 C:\Users\Alfre Do\Desktop\Cursos\ARG Programa - Yo Programo\Mod 4\BackEnd Entrega\YP-portfolio_BackEnd\src\main\java\com\portfolio\aaf\Controller\PersonaController.java
 C:\Users\Alfre Do\Desktop\Cursos\ARG Programa - Yo Programo\Mod 4\BackEnd Entrega\YP-portfolio_BackEnd\src\main\java\com\portfolio\aaf\Security\jwt\JwtProvider.java
 C:\Users\Alfre Do\Desktop\Cursos\ARG Programa - Yo Programo\Mod 4\BackEnd Entrega\YP-portfolio_BackEnd\src\main\java\com\portfolio\aaf\AafApplication.java
+C:\Users\Alfre Do\Desktop\Cursos\ARG Programa - Yo Programo\Mod 4\BackEnd Entrega\YP-portfolio_BackEnd\src\main\java\com\portfolio\aaf\Controller\CHys.java
 C:\Users\Alfre Do\Desktop\Cursos\ARG Programa - Yo Programo\Mod 4\BackEnd Entrega\YP-portfolio_BackEnd\src\main\java\com\portfolio\aaf\Dto\dtoEducacion.java
 C:\Users\Alfre Do\Desktop\Cursos\ARG Programa - Yo Programo\Mod 4\BackEnd Entrega\YP-portfolio_BackEnd\src\main\java\com\portfolio\aaf\Entity\Persona.java
 C:\Users\Alfre Do\Desktop\Cursos\ARG Programa - Yo Programo\Mod 4\BackEnd Entrega\YP-portfolio_BackEnd\src\main\java\com\portfolio\aaf\Security\jwt\JwtEntryPoint.java
@@ -34,3 +38,4 @@ C:\Users\Alfre Do\Desktop\Cursos\ARG Programa - Yo Programo\Mod 4\BackEnd Entreg
 C:\Users\Alfre Do\Desktop\Cursos\ARG Programa - Yo Programo\Mod 4\BackEnd Entrega\YP-portfolio_BackEnd\src\main\java\com\portfolio\aaf\Interface\IPersonaService.java
 C:\Users\Alfre Do\Desktop\Cursos\ARG Programa - Yo Programo\Mod 4\BackEnd Entrega\YP-portfolio_BackEnd\src\main\java\com\portfolio\aaf\Security\Service\UsuarioService.java
 C:\Users\Alfre Do\Desktop\Cursos\ARG Programa - Yo Programo\Mod 4\BackEnd Entrega\YP-portfolio_BackEnd\src\main\java\com\portfolio\aaf\Entity\Educacion.java
+C:\Users\Alfre Do\Desktop\Cursos\ARG Programa - Yo Programo\Mod 4\BackEnd Entrega\YP-portfolio_BackEnd\src\main\java\com\portfolio\aaf\Entity\Hys.java
